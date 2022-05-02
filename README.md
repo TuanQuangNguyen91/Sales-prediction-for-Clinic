@@ -1,2 +1,2 @@
-# data_wrangling_exercises.
+# data_wrangling_exercises
 abc
