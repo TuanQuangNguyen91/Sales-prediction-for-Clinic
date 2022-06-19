@@ -1,3 +1,3 @@
 # Sales prediction for Clinic
-The data in this repository is for practice purpose only.
+The data in this repository is aiming for practicing ARIMA model.
 
